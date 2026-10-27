@@ -12,7 +12,7 @@ I build GenAI systems that are evaluated, traced, and deployed: hybrid-retrieval
 RAG over GAAP standards that grounds Claude-generated MD&A commentary, with report generation automated across 50K GL entries. Deployed on AWS EKS with CI/CD and LangSmith tracing.
 `LangChain` `Claude` `Qdrant` `Celery` `Redis` `AWS EKS`
 
-**[Conversational SQL Analytics Assistant]#([PLACEHOLDER: repo URL])**
+**[Conversational SQL Analytics Assistant]**
 A LangChain SQL agent that turns plain-English questions into multi-step queries over 590K financial records, using Pinecone schema retrieval. Served on GCP.
 `LangChain` `Claude` `Pinecone` `PostgreSQL` `FastAPI` `GCP`
 
