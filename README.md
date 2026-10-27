@@ -8,7 +8,7 @@ I build GenAI systems that are evaluated, traced, and deployed: hybrid-retrieval
 
 ## Featured projects
 
-**[GL Regulatory Reporting System]#([PLACEHOLDER: repo URL])**
+**[GL Regulatory Reporting System](https://github.com/shamika2504/gl-reporting-system)**
 RAG over GAAP standards that grounds Claude-generated MD&A commentary, with report generation automated across 50K GL entries. Deployed on AWS EKS with CI/CD and LangSmith tracing.
 `LangChain` `Claude` `Qdrant` `Celery` `Redis` `AWS EKS`
 
@@ -16,7 +16,7 @@ RAG over GAAP standards that grounds Claude-generated MD&A commentary, with repo
 A LangChain SQL agent that turns plain-English questions into multi-step queries over 590K financial records, using Pinecone schema retrieval. Served on GCP.
 `LangChain` `Claude` `Pinecone` `PostgreSQL` `FastAPI` `GCP`
 
-**[FitRx: Fine-Tuned AI Fitness Coach]#([PLACEHOLDER: repo URL])**
+**[FitRx: Fine-Tuned AI Fitness Coach](https://github.com/shamika2504/fitrx-app)**
 Gemini 2.5 Flash fine-tuned on 500 curated examples, scoring +6.9% over the base model on LLM-as-judge evaluation. Includes a tool-calling agent on Cloud Run with drift monitoring.
 `Gemini` `Vertex AI` `LangChain` `pgvector` `BigQuery`
 
